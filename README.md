@@ -1,16 +1,20 @@
-## Hi there 👋
+```
+        __   _  __  ____  __       __  ____  __ _     _
+_____  |  \_/ \ \ \ \  _) \ \___  _\ \ \ -_\ \ \ |  _/O\_
+\____| |_|\_|\_) \_) \___) \_\\_) \___) \___) \__| (_____)
+```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%3E+++++++++__+++_++__++____++__+++++++__++____++__+_+++++_" alt="Typing SVG" /></a>
 
-<!--
-**mich-gamedev/mich-gamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%3E+_____++%7C++%5C_%2F+%5C+%5C+%5C+%5C++_)+%5C+%5C___++_%5C+%5C+%5C+-_%5C+%5C+%5C+%7C++_%2FO%5C_" alt="Typing SVG" /></a>
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%3E+%5C____%7C+%7C_%7C%5C_%7C%5C_)+%5C_)+%5C___)+%5C_%5C%5C_)+%5C___)+%5C___)+%5C__%7C+(_____)" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on togodoo, a tree-based todo app inspired by and made in Godot
+
+Experienced in: Godot , Python, Javascript, HTML/CSS
+
+Has used: C++, GLSL
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mich-gamedev&theme=catppuccin-mocha&border_radius=0" alt="GitHub Streak" /></a>
+</div>

@@ -11,3 +11,5 @@ Currently working on togodoo, a tree-based todo app inspired by and made in Godo
 ---
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mich-gamedev&theme=catppuccin-mocha&border_radius=0" alt="GitHub Streak" /></a></div>
+
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=6C7086&multiline=true&repeat=false&width=460&height=96&lines=%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80_____o%E2%A0%80%E2%A0%80o%E2%A0%80%E2%A0%80%E2%A0%80%F0%9F%8E%94%E2%A0%80%E2%A0%80o%E2%A0%80%E2%A0%80o_____;-.__.-(%E2%A0%80_%E2%A0%80_%E2%A0%80_%E2%A0%80.%E2%A0%80%3E%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%3C%E2%A0%80.%E2%A0%80_%E2%A0%80_%E2%A0%80_%E2%A0%80).-._;%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80V%E2%A0%80V%E2%A0%80V%E2%A0%80V%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80%E2%A0%80V%E2%A0%80V%E2%A0%80V%E2%A0%80V" alt="Typing SVG" /></a></div>

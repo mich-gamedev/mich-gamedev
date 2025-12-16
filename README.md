@@ -4,7 +4,7 @@ Currently working on togodoo, a tree-based todo app inspired by and made in Godo
 
 ---
 
-**Experienced in:** <img src="https://godotengine.org/assets/press/icon_color.svg" height=24 alt="Godot"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height=24 alt="Python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" height=24 alt="Javascript"> <img src="https://img.icons8.com/?size=48&id=20909&format=png" height=24 alt="HTML"> <img src="https://img.icons8.com/?size=48&id=21278&format=png" height=24 alt="CSS">
+**Experienced in:** <img src="https://godotengine.org/assets/press/icon_color.svg" height=24 alt="Godot"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height=24 alt="Python"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" height=24 alt="Javascript"> <img src="https://img.icons8.com/?size=48&id=20909&format=png" height=24 alt="HTML"> <img src="https://img.icons8.com/?size=48&id=21278&format=png" height=24 alt="CSS"> <img src="https://www.r-project.org/logo/Rlogo.svg" height=24 alt="R"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" height = 24 alt="SQLite">
 
 **Has used:** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" height=24 alt="C++"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/960px-Opengl-logo.svg.png?20230524144527" height=24 alt="GLSL">
 
